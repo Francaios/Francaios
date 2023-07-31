@@ -4,9 +4,6 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Francaios.Francaios)
-[![Github](https://img.shields.io/github/followers/Francaios?label=Follow&style=social)](https://github.com/Francaios)
-
 <div size='20px'> Hola! Mi nombre es Francisco. Gracias por tomarte el tiempo de visitar mi perfil de Github 
 </div>
 
